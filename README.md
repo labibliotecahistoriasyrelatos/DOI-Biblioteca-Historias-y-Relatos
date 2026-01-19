@@ -4,6 +4,10 @@
 **Proyecto:** La Biblioteca Historias y Relatos  
 **Plataforma:** Zenodo  
 
+Apoya el proyecto en Patreon:  
+https://www.patreon.com/LaBibliotecaHistoriasyRelatos
+
+
 ## 📚 Publicaciones con DOI
 
 1. https://doi.org/10.5281/zenodo.17308640  
